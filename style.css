@@ -1,0 +1,15 @@
+.container{
+    border: 2px solid salmon;   
+    display: flex;  
+    height: 600px; 
+    /* justify-content: space-around;   */ 
+    /* align-items: center; */  
+    flex-direction: row-reverse;    
+    flex-wrap: wrap;
+}   
+.box{
+    font-size: 40px;    
+    border: 2px dashed black;
+    width: 100px;
+    height: 200px;
+}
