@@ -11,5 +11,14 @@
     font-size: 40px;    
     border: 2px dashed black;
     width: 100px;
-    height: 200px;
+    height: 200px;  
+    margin: 10px;   
+    padding: 10px;  
+    text-align: center; 
+    background-color: lightblue;
+    color: salmon;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
 }
